@@ -79,8 +79,10 @@ AnimatedContainer(
 <p align="left">
   <img width="300" alt="image" src="https://github.com/user-attachments/assets/c74e221b-4c95-4fc0-bada-b013ebfc10fe" />
   <img width="300" alt="image" src="https://github.com/user-attachments/assets/cb952ec2-c693-44e9-83ad-9f64c3bac37e" />
-  
 </p>
+
+#### 🎥 Video Animasi
+https://github.com/user-attachments/assets/58e3aefe-c81a-4262-a0c4-bad54a962c7e
 
 ---
 
@@ -152,6 +154,10 @@ AnimatedBuilder(
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/25da6cb1-4637-4882-b7b7-7717c3514634" />
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/884e3e32-4c0b-4fb8-9fb9-7b86da4ef693" />
 </p>
+
+#### 🎥 Video Animasi
+https://github.com/user-attachments/assets/62f46d37-10e7-4ebe-b2f8-8973f297b549
+
 ---
 
 ### 3️⃣ Interactive Animation
@@ -211,7 +217,13 @@ Ketika pengguna menekan widget, ukuran dan warna akan berubah secara animatif se
 ---
 
 #### 🎥 Hasil Implementasi
-<p align="center"> <img src="docs/implicit_animation_result.gif" width="300"> </p>
+<p align="left">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2e525d42-ebd0-43e4-b8bb-40ffe3268c84" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3597c37e-8dd0-41e5-82a3-343aa4ae73fa" />
+</p>
+
+#### 🎥 Video Animasi
+https://github.com/user-attachments/assets/c3699fbf-89e5-46db-934f-cd0f76808cd8
 
 ---
 
@@ -277,10 +289,8 @@ Kode di atas menghasilkan efek slide dari kanan ke kiri saat berpindah halaman.
 ---
 
 #### 🎥 Hasil Implementasi
-<p align="left">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/2e525d42-ebd0-43e4-b8bb-40ffe3268c84" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/3597c37e-8dd0-41e5-82a3-343aa4ae73fa" />
-</p>
+https://github.com/user-attachments/assets/ae67b85e-edfe-4aa3-b3ab-c427aa486409
+
 ---
 
 ## 🧾 Kesimpulan
